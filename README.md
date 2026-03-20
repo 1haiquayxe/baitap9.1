@@ -1,7 +1,7 @@
 # Thực hành sử dụng Components - React Native
 
 ## Thông tin sinh viên
-- Họ và tên: Đặng Quốc HẢi
+- Họ và tên: Đặng Quốc Hải
 - Mã sinh viên: 23810310354
 
 ## Mô tả bài tập
