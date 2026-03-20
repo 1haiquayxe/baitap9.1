@@ -5,8 +5,7 @@
 - Mã sinh viên: 23810310354
 
 ## Mô tả bài tập
-Sử dụng Context API hoàn thiện bài tập xây dựng luồng login cuối slide B8.pdf
-Output: Link git.
+Hoàn thiện ứng dụng kết hợp Stack nativagion + bottom navigation + Context theo hướng dẫn trong slide B9.pdf
 
 
 
